@@ -20,7 +20,10 @@ const AboutPage = () => {
                         unde reiciendis assumenda inventore perferendis, nisi
                         nostrum dolorum eaque voluptatem atque dolores
                         voluptatibus nobis quae. Voluptates libero totam
-                        inventore enim quae et quaerat dolores tempora?
+                        inventore enim quae et quaerat dolores tempora? Lorem
+                        ipsum dolor, sit amet consectetur adipisicing elit.
+                        Libero corrupti voluptatum ad, maxime modi error. Ipsa
+                        repudiandae dolorum quis veniam!
                     </p>
                 </article>
             </Wrapper>
