@@ -17,13 +17,23 @@ const AboutPage = () => {
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Corporis, obcaecati sed numquam rerum est repellendus
-                        unde reiciendis assumenda inventore perferendis, nisi
-                        nostrum dolorum eaque voluptatem atque dolores
-                        voluptatibus nobis quae. Voluptates libero totam
-                        inventore enim quae et quaerat dolores tempora? Lorem
-                        ipsum dolor, sit amet consectetur adipisicing elit.
-                        Libero corrupti voluptatum ad, maxime modi error. Ipsa
-                        repudiandae dolorum quis veniam!
+                        eaque voluptatem atque dolores voluptatibus nobis quae.
+                        Voluptates libero totam inventore enim quae et quaerat
+                        dolores tempora? Lorem ipsum dolor, sit amet consectetur
+                        adipisicing elit. Libero corrupti voluptatum ad, maxime
+                        modi error. Ipsa repudiandae dolorum quis veniam!
+                    </p>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing
+                        elit. Nostrum perferendis nulla voluptate voluptatum
+                        optio quo sit aut accusantium ipsa. Dolorum.
+                    </p>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Aliquam doloremque pariatur voluptate facere, vero
+                        facilis iure nobis optio? Itaque veniam at quod natus!
+                        Itaque veniam voluptatum libero beatae laboriosam
+                        necessitatibus.
                     </p>
                 </article>
             </Wrapper>
