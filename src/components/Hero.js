@@ -35,9 +35,11 @@ const Hero = () => {
 };
 
 const Wrapper = styled.section`
-    min-height: 100vh;
+    min-height: 100%;
     display: grid;
     place-items: center;
+    padding-bottom: 5rem;
+    padding-top: 3rem;
     .img-container {
         display: none;
     }
@@ -50,7 +52,7 @@ const Wrapper = styled.section`
         font-size: 1rem;
     }
     @media (min-width: 992px) {
-        height: calc(100vh - 5rem);
+        height: 100%;
         grid-template-columns: 1fr 1fr;
         gap: 8rem;
         h1 {
