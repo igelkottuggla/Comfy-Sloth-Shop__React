@@ -26,16 +26,17 @@ const SingleProductPage = () => {
 
     useEffect(() => {
         fetchSingleProduct(`${url}${id}`);
+        // eslint-disable-next-line
     }, [id]);
 
-    // useEffect(
-    //     (error) => {
-    //         setTimeout(() => {
-    //             history.push('/');
-    //         }, 3000);
-    //     },
-    //     [error]
-    // );
+    useEffect(() => {
+        if (error) {
+            setTimeout(() => {
+                history.push('/');
+            }, 3000);
+        }
+        // eslint-disable-next-line
+    }, [error]);
 
     if (loading) return <Loading />;
     if (error) return <Error />;
