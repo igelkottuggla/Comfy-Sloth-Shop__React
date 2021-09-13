@@ -1,22 +1,18 @@
-## Notes
+E-commerce adaptive site for the furniture company with products coming from the external API. App is built with React using:
 
-#### Older React Version
+-   styled components
+-   react hooks
+-   react router
+-   Authentication implemented using Auth0 React
+-   Payments using stripe
+-   Axios
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
+Pages
 
-#### Current React Version
-
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
-
-#### Alternative fix
-
-.env file in the root
-FAST_REFRESH=FALSE
+-   Home Page
+-   Products Page
+-   Single Product Page
+-   About Page
+-   Error Page
+-   Cart Page
+-   Checkout Page
